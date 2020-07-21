@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "graphql-playground-html": "^1.6.25",
     "graphql-yoga": "^1.18.3",
     "mongoose": "^5.9.25"
   },
